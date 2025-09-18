@@ -89,10 +89,3 @@ python main.py
 
 ---
 
-## Possíveis Melhorias Futuras
-- Exportação de relatórios em PDF/Excel.
-- Suporte multiusuário com autenticação.
-- Migração de JSON para **SQLite** para maior robustez.
-- Inclusão de testes automatizados.
-
----
