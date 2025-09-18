@@ -1,0 +1,182 @@
+{
+    "disciplinas": {
+        "Língua Portuguesa": {
+            "Análise e Interpretação de Texto": {
+                "Compreensão global": false,
+                "Ponto de vista do autor": false,
+                "Ideias centrais desenvolvidas em cada parágrafo": false,
+                "Inferências": false
+            },
+            "Comunicação e Linguagem": {
+                "Comunicação, linguagem e variações linguísticas": false,
+                "Gêneros e Tipologias textuais": false,
+                "Elementos de coesão e coerência textual": false
+            },
+            "Ortografia e Gramática": {
+                "Ortografia Oficial": false,
+                "Emprego das classes de palavras": false,
+                "Semântica (sinônimos, antônimos, sentido conotativo e denotativo)": false,
+                "Funções sintáticas": false,
+                "Concordância nominal e verbal": false,
+                "Pontuação": false,
+                "Uso dos porquês": false
+            },
+            "Literatura Brasileira": {
+                "Prosa e poesia": false,
+                "Autores e obras": false,
+                "Figuras de linguagem": false
+            }
+        },
+        "Matemática e Raciocínio Lógico": {
+            "Operações Fundamentais e Cálculo Algébrico": {
+                "Quatro operações fundamentais": false,
+                "Comparações, arredondamentos, aproximações e estimativas": false,
+                "Equações de 1º e 2º graus com uma ou duas incógnitas": false,
+                "Sistemas de equações de 1º grau": false,
+                "Monômios, polinômios e produtos notáveis": false
+            },
+            "Conjuntos Numéricos e Potências": {
+                "Conjuntos numéricos": false,
+                "Múltiplos e divisores, MMC e MDC": false,
+                "Intervalos numéricos": false,
+                "Potenciação, radiciação e fatoração": false,
+                "Operações entre conjuntos": false
+            },
+            "Funções e Geometria": {
+                "Funções - constantes, afim, crescentes e decrescentes": false,
+                "Gráficos de funções": false,
+                "Geometria plana e espacial": false,
+                "Geometria analítica": false
+            },
+            "Estatística e Probabilidade": {
+                "Estatística (média, moda e mediana)": false,
+                "Probabilidade (eventos dependentes e independentes)": false
+            },
+            "Grandezas e Resolução de Problemas": {
+                "Grandezas proporcionais": false,
+                "Razão e proporção": false,
+                "Regra de três simples e composta": false,
+                "Matemática financeira (porcentagem, juros simples)": false
+            }
+        },
+        "Conhecimentos Gerais": {
+            "Aspectos Regionais e Nacionais": {
+                "Cultura, história e geografia do Brasil": false,
+                "Município de Clevelândia e Estado do Paraná": false,
+                "Atualidades e cenários políticos": false
+            },
+            "Sociedade e Meio Ambiente": {
+                "Movimentos sociais": false,
+                "Trabalho, Previdência e questões sociais": false,
+                "Noções de economia e educação financeira": false,
+                "Ciência, Tecnologia e Inovação": false,
+                "Meio Ambiente, Sustentabilidade e Aquecimento global": false
+            },
+            "Saúde, Segurança e Educação": {
+                "Educação e qualidade de vida": false,
+                "Noções básicas de segurança": false,
+                "Desastres naturais e humanos": false
+            },
+            "Arte e Cultura": {
+                "Arte, sociedade e comportamento": false,
+                "Guerras, conflitos e terrorismo": false
+            }
+        },
+        "Informática": {
+            "Fundamentos de Informática": {
+                "Conceitos de informática": false,
+                "Hardware de entrada e saída": false,
+                "Software": false,
+                "Atalhos de Teclado": false
+            },
+            "Ambientes Operacionais e Ferramentas": {
+                "Gerenciamento de Arquivos": false,
+                "Segurança de Dados": false,
+                "Windows 10 e 11": false,
+                "Processador de texto (Word 2016)": false,
+                "Planilhas eletrônicas (Excel 2016)": false
+            },
+            "Internet e Navegação": {
+                "Navegadores de Internet": false,
+                "E-mails (Outlook, Gmail, Webmail - Zimbra)": false,
+                "Busca e pesquisa na Web": false
+            }
+        },
+        "Administração e Gestão Pública (ESPECÍFICOS)": {
+            "Organização e Estrutura": {
+                "Natureza, desenvolvimento e cultura organizacional": false,
+                "Estrutura organizacional": false
+            },
+            "Funções da Administração": {
+                "Planejamento, organização, direção e controle": false
+            },
+            "Administração de Pessoas": {
+                "Recrutamento e seleção": false,
+                "Treinamento e desenvolvimento": false,
+                "Motivação e liderança": false,
+                "Delegação, cargos e salários": false
+            },
+            "Gestão da Qualidade e Planejamento Organizacional": {
+                "Planejamento estratégico, tático e operacional": false,
+                "Ambiente e as organizações": false
+            },
+            "Administração Financeira e Orçamentária": {
+                "Decisões de investimento e financiamento": false,
+                "Orçamento e análise de projetos": false
+            },
+            "Princípios e Responsabilidade na Administração Pública": {
+                "Princípios fundamentais da administração pública": false,
+                "Poderes e deveres do administrador público": false,
+                "Improbidade administrativa": false,
+                "Servidores públicos": false,
+                "Responsabilidade civil da administração pública": false
+            },
+            "Controle e Atos Administrativos": {
+                "Controle da administração pública": false,
+                "Tipos e formas de controle": false,
+                "Atos administrativos (conceito, requisitos, classificação, invalidação)": false,
+                "Anulação, revogação e efeitos": false
+            },
+            "Legislação e Orçamento Público": {
+                "Processo legislativo": false,
+                "Resolução 07/2014": false,
+                "Constituição Federal": false,
+                "Regimento Interno": false,
+                "Lei Orgânica Municipal": false,
+                "Redação Oficial": false,
+                "Lei 14.133/2021 (Nova Lei de Licitações)": false,
+                "Lei Municipal 2714/2019": false
+            }
+        }
+    },
+    "notas": {},
+    "materiais": {
+        "Lingua Portuguesa - Geral": {
+            "link": "https://www.youtube.com/@profalvaroferreira/videos",
+            "materia": "Língua Portuguesa",
+            "ramificacao": "TODOS",
+            "tipo_conteudo": "Vídeo",
+            "estudado": false
+        },
+        "CURSO": {
+            "link": "https://www.profalvaroferreira.com.br/academia-de-portugues/?utm_source=youtube&utm_medium=descricao&utm_campaign=organico&utm_content=MORFOLOGIA:%20CLASSES%20DE%20PALAVRAS%20(Para%20Concurso)",
+            "materia": "Língua Portuguesa",
+            "ramificacao": "TODOS",
+            "tipo_conteudo": "Curso",
+            "estudado": false
+        },
+        "MORFOLOGIA: CLASSES DE PALAVRAS": {
+            "link": "https://www.youtube.com/watch?v=ltrzPijgKi4&t=22s",
+            "materia": "Língua Portuguesa",
+            "ramificacao": "Ortografia e Gramática",
+            "tipo_conteudo": "Vídeo",
+            "estudado": false
+        }
+    },
+    "questoes": {},
+    "temporizador": {
+        "tempo_total": 0,
+        "tempo_dia": 0,
+        "data": "2025-09-17"
+    }
+}
